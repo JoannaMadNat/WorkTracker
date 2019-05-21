@@ -114,24 +114,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Work.exe" size="89592">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Work.exe" size="148472">
       <assemblyIdentity name="Work" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8tGFPZ6AzJY4Ik+mc4m7nt/vnx2AAn8+DJqVv54qMqA=</dsig:DigestValue>
+        <dsig:DigestValue>LxIoUx7ao6mx7vu23P2aVhFBVHZH+MWQ4oZeer3aRV8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Work.exe.config" size="18072">
+  <file name="Work.exe.config" size="189">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xjxjt2SKb5x+c5XMNCEXmHCF5isZu2Pi21qoOaHGHQA=</dsig:DigestValue>
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
