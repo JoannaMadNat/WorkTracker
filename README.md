@@ -9,11 +9,12 @@ Magnifying glass icon by Eric J, SE
 <hr>
 
 #### todo
-- make UI prettier plz
+- 
 
 #### done!
 - make search capability for all aspects of an employee and not just items
 - make editing available in searching
+- make UI prettier plz
 
 
                      
