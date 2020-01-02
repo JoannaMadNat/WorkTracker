@@ -114,14 +114,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Work.exe" size="353792">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Work.exe" size="354816">
       <assemblyIdentity name="Work" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MQaS3XP+5ejzXC4p+BzmtjWy7QyDPR9SIIXU10buYbQ=</dsig:DigestValue>
+        <dsig:DigestValue>6nMuJmkI0++NgEbg4eenWsOGpx0zQIl1LCXrgPr2Npk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
